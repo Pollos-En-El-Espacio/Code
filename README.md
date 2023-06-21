@@ -1,1 +1,1 @@
-# Raspberry pi code for the Astro Pi
+# Raspberry Pi Code For The Astro Pi
